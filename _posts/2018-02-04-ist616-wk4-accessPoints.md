@@ -9,8 +9,12 @@ Four weeks into IST 616 Information and Organization and Access at Syracuse Univ
 ###### Source: _RDA Toolkit: Resource Description and Access_. Chicago, IL: American Library Association, 2010. [http://access.rdatoolkit.org/](http://access.rdatoolkit.org/). Accessed 03 Feb 2018.  
 
 ### Preguntas Leyendo
-* Chapter 9: Identifying Names (9.2) Why do Thai names have so many exceptions when identifying a person? The only other languages listed in exceptions was Greek, Latin, and Chinese. Something to do with scriptures, I guess, but what about Japanese and Russian?
+* Ch 9: Identifying Names (9.2) Why do Thai names have so many exceptions when identifying a person? The only other languages listed in exceptions was Greek, Latin, and Chinese. Something to do with scriptures, I guess, but what about Japanese and Russian?
+* Ch 10: Big ups to the Family names mentioned. 
 
-
+### News + Links
+* I would plan to write about this experience in a separate post, but here's a teaser: I finally began a [huge VHS digitization project](https://twitter.com/snewyuen/status/950870344893632515) that got approved back in early January. I biked a medium size canvas tote from job in Lower Manhattan to the [Metropolitan New York Library Council studio](https://metro.org/services/599studio) in Hell's Kitchen, and received training from the very kind and knowledgeable studio manager, MS. Along with my intern, OB, we were able to learn, teach, and fully transfer 2 VHS tapes in 4 hours. Some snafus along the way, but those are [potentially very close to being fixed](https://github.com/amiaopensource/vrecord/issues/237). Excitement for this project is through the roof.
+* Adding this blog, [Building the Unified Library Scene](https://unifiedlibraryscene.blogspot.com/), to my casual reading list. Quick skim and I dig the point of view: part-time graduate schooling and music pickings.
+* Unnecessary distractions, but quite calming at the same time. New phone game, [Travel Frog](http://www.bbc.com/news/world-asia-china-42871181), reminds me of one of the best board games, [Tokaido](https://boardgamegeek.com/boardgame/123540/tokaido).
 
 
