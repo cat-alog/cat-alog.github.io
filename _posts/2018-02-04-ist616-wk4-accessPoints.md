@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: wish i was full-time mlis + interning at a lib (i'm into this)
 date: 2018-02-05
 ---
 
