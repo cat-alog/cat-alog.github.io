@@ -17,7 +17,7 @@ Good news: I've been accepted to manage a pro bono tech project for a nonprofit 
 
 
 ### Preguntas Leyendo
-##### Source: Taylor, Arlene G, and Daniel N. Joudrey. The Organization of Information. Westport (Conn.: Libraries Unlimited, 2009. Print. 
+##### Source: Taylor, Arlene G, and Daniel N. Joudrey. The Organization of Information. Westport, Conn.: Libraries Unlimited, 2009. Print. 
 * more details in the difference between Relational Model and Object-relational Model
 * a teensy bit more review of work > expression > manifestation >  item, pls
 
