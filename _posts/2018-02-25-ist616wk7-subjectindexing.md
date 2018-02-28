@@ -14,7 +14,9 @@ Need to look into the DIY approach for [Personal Digital Archiving](https://blog
 
 Indexing machine learning programming skills... Where how what when?
 
-Dr. Miller is good wood.
+Also, started this [delta.nyc](https://www.civichalllabs.org/probonotech) where I act as a Product Manager to help build a digital system for a nonprofit, [Carroll Gardens Association](http://www.carrollgardensassociation.com/). A bit nervous but something to do with CRM for community building is in my wheel house. Started this week, going until May 11th. Ruh roh.
+
+Dr. Miller has been knighted.
 
 ### News + Links
 * [This whole thread](https://twitter.com/LibSkrat/status/964515623006097411) about the pitfall of scholcomm jobs scares me
