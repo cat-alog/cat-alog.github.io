@@ -28,3 +28,8 @@ Dr. Miller has been knighted.
 * Review of [LexisNexis Academy & Library Solutions thesaurus tool](http://www.lexisnexis.com.libezproxy2.syr.edu/hottopics/lnacademic/proxyIndex.asp?cn=1) related to the chosen article (e.g. [Indexing Exercise](http://metadataetc.org/616/ex_indexing.html))
 * In what library or archive will allow their employees to index manually (e.g. not computer-assisted)? It seems inefficient to the times.
 * When is Automatic indexing practice accepted? Natural language processing and machine learning is not accurate and trustworthy enough to index content automatically enough, right?
+
+
+#### Things to remember from Indexing week:
+Intraindexer = re-index the article we indexed before. The number of terms assigned both times, means high intraindexer reliability.
+Interindexer = 2 + people index a given article and whether or not they use the same term. 
