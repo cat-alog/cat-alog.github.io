@@ -1,7 +1,7 @@
 ---
 layout: post
 title: four weeks more
-date: 2018-02-15
+date: 2018-02-25
 ---
 
 Fatigued this week from extended family visitors, to D's Defense, celebrations, surgeries, etc. This week is a mish mosh of things. 
