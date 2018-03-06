@@ -1,6 +1,6 @@
 ---
 layout: post
-title: creating classification standards at day job while learning this
+title: confusing classification standards at day job
 date: 2018-03-04
 ---
 
