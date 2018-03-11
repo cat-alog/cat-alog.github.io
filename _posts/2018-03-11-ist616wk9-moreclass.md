@@ -14,12 +14,15 @@ date: 2018-03-11
  OR
  Medical + journalism = medical journalism
  = 070.499 + 610 = 070.49961 (why is there no decimal between the 499 and the 61 ?)
+* class number + call number = book number. 
+* I think my LC call number = N489 or is it N48 ?
+
  
 
 
 ##### DDC practice
-372.305 = science (372+ .5) serial publication (t1-05)
+372.305 = science (372 + .5) serial publication (t1-05)
 
 505 = science (50) + serial publication (t1-05)
 
-t1-03 = dictionary + 20 = religion
+20.05 = dictionary (t1-03) + religion (20)
