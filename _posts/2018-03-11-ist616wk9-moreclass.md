@@ -10,6 +10,8 @@ date: 2018-03-11
 * kickstarted delta.nyc Product/Project manager role. Learned that there's a simple secure mass texting service. good
 * missing the archiving reception on Friday 3/23 sad
 * had almost 2+ weeks of no boss, and running the Tech services department. This could be do-able
+* link out to Sofia's article in govtech about digital equity and search engine bias
+* had first demo with Blu3tone and it was productive and helpful. I hope they get something good out of it
 
 ### Preguntas Leyendo
 #### Source:
