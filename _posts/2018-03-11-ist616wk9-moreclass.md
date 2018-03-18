@@ -1,8 +1,10 @@
 ---
 layout: post
-title: health is getting in the way
+title: call number building is difficult 
 date: 2018-03-11
 ---
+
+My personal health is getting in the way and so grasping the concepts of building classifications and cataloging was difficult this week. I need more practice. 
 
 ### News + Links
 * Ideal internship or practicuum situation: Kendra for transportation librarianship / library as a publisher with data thing (https://twitter.com/tranlib/status/974309822878203904)
