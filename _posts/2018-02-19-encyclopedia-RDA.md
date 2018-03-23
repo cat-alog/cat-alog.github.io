@@ -1,6 +1,6 @@
 ---
 layout: post
-title: encyclopedia-RDA
+title: "encyclopedia-RDA"
 date: 2018-02-19
 ---
 
