@@ -17,9 +17,11 @@
 			<div class="container">
 			
 			{{ content }}
-			<!-- feature multiple blog posts onto homepage -->
-			{{ site.posts | sample }}
-			
+			<!-- feature 4 blog posts onto homepage -->
+			{% for post in site.posts %}
+				{{ post.title }}
+				{{ post.content }}
+			{% endfor %}
 			</div><!-- /.container -->
 			<footer>
 	    		<ul>
