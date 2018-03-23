@@ -44,3 +44,9 @@ ul.posts li {
 
 /* hide image from blog home pages */
 .posts img {display:none;}
+
+/* hides blog feature content except for image on homepage */
+/*
+div.zero {    visibility:collapse; height:200px; width:100%;}
+.zero .show { visibility:visible; }
+*/
