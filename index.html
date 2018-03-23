@@ -12,7 +12,7 @@ title: Domesticating Cats Collection
 			{% for post in site.posts %}
 				{% if forloop.index < 4 %}
 					<div style="width:45%;float:left;margins:auto;">
-					<h3>{{ post.title }}</h3>
+	<a href={{post.url}}><h3>{{ post.title }}</h3></a>
 					<div class="zero"> {{ post.content }} </div>
 </div>
 				{% endif %}
