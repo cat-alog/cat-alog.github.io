@@ -1,6 +1,6 @@
 ---
 layout: post
-title: encyclopedia-MARC
+title: "encyclopedia-MARC"
 date: 2018-02-10
 ---
 
