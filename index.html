@@ -11,8 +11,10 @@ title: Domesticating Cats Collection
 	<!-- feature 4 blog most recent blog posts onto homepage -->
 			{% for post in site.posts %}
 				{% if forloop.index < 4 %}
-				{{ post.title }}
-						       <div class="zero"> {{ post.content }} </div>
+					<div style="width:45%;float:left;margins:auto;">
+					<h3>{{ post.title }}</h3>
+					<div class="zero"> {{ post.content }} </div>
+</div>
 				{% endif %}
 			{% endfor %}
 
