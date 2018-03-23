@@ -12,8 +12,14 @@ title: Domesticating Cats Collection
 			{% for post in site.posts %}
 				{% if forloop.index < 4 %}
 				{{ post.title }}
-				{{ post.description }}
+						       <div class="zero"> {{ post.content }} </div>
 				{% endif %}
 			{% endfor %}
 
 </div><!-- /.blurb -->
+<style>
+	.zero {visiblity:hidden;}
+.zero .show {visiblity:visible;}
+
+
+</style>
