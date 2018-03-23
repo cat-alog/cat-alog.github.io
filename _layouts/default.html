@@ -18,7 +18,7 @@
 			
 			{{ content }}
 			<!-- feature 4 blog posts onto homepage -->
-			{% for post in site.posts %}
+			{% for post in site.posts | sample:4 %}
 				{{ post.title }}
 				{{ post.content }}
 			{% endfor %}
