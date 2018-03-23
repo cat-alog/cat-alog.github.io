@@ -41,3 +41,6 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+/* hide image from blog home pages */
+.posts img {display:none;}
