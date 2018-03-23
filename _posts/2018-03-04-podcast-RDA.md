@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "podcast in RDA <br> <img src='https://i.imgur.com/u2uvVW3.png'>"
+title: "podcast in RDA <br> <img src='https://i.imgur.com/u2uvVW3.png' height='10' width='10'>"
 date: 2018-03-04
 ---
 
