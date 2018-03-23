@@ -9,9 +9,11 @@ title: Domesticating Cats Collection
 	<p>This virtual public collection serves everybody, from all ages and backgrounds. Children and adults looking to live, play, and/or learn about felines will find this collection particularly useful and fun. </p>
 	<h2>Featured Cat Resources</h2>
 	<!-- feature 4 blog posts onto homepage -->
-			{% for post in {{site.posts | sample:1}} %}
+			{% for post in site.posts %}
+				{% if forloop.index < 3 %}
 				{{ post.title }}
 				{{ post.content }}
+				{% endif %}
 			{% endfor %}
 
 </div><!-- /.blurb -->
