@@ -17,11 +17,6 @@
 			<div class="container">
 			
 			{{ content }}
-			<!-- feature 4 blog posts onto homepage -->
-			{% for post in {{site.posts | sample:1}} %}
-				{{ post.title }}
-				{{ post.content }}
-			{% endfor %}
 			</div><!-- /.container -->
 			<footer>
 	    		<ul>
