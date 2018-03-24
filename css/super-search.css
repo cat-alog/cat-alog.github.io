@@ -77,3 +77,9 @@ MIT Licensed
 	opacity: 1;
 	visibility: visible;
 }
+.search-btn {
+    position: fixed;
+    right: 10px;
+    top: 15px;
+    fill: #ddd;
+}
