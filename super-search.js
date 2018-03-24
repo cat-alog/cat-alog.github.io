@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-	<html>
-		<head>
-			<title>{{ page.title }}</title>
-			<!-- link to main stylesheet -->
-			<link rel="stylesheet" type="text/css" href="/css/main.css">
-			<link rel="stylesheet" type="text/css" href="/css/super-search.css">
-		<!-- search bar js -->
-<script> 
 /* super-search
 Author: Kushagra Gour (http://kushagragour.in)
 MIT Licensed
@@ -151,42 +142,3 @@ MIT Licensed
 	window.superSearch = init;
 
 })();
-</script>
-
-		</head>
-		<body>
-<!-- place search bar above navbar -->
-<div class="super-search" id="js-super-search">
-	<a href="javascript:void(0)" onclick="superSearch.toggle()" class="super-search__close-btn">X</a>
-	<input type="text" placeholder="Type here to search" class="super-search__input" id="js-super-search__input">
-	<ul class="super-search__results" id="js-super-search__results"></ul>
-</div>
-<script>
-superSearch({
-	searchFile: '/feed.xml',
-	searchSelector: '#js-super-search', // CSS Selector for search container element.
-	inputSelector: '#js-super-search__input', // CSS selector for <input>
-	resultsSelector: '#js-super-search__results' // CSS selector for results container
-});
-</script>
-			<nav>
-	    		<ul>
-	        		<li><a href="/">Home</a></li>
-				    	<li><a href="/summary">Procedures + Policies</a></li>
-		        		<li><a href="/issues">Cataloging Issues</a></li>
-					<li><a href="/blog">Cata(b)log</a></li>
-	    		</ul>
-			</nav>
-			<div class="container">
-			
-			{{ content }}
-			</div><!-- /.container -->
-			<footer>
-	    		<ul>
-	        		<li><a href="mailto: cataloging@library.edu">email</a></li>
-	        		<li><a href="https://github.com/michi-gato">github.com/michi-gato</a></li>
-				</ul>
-			</footer>
-		</body>
-	</html>
-
