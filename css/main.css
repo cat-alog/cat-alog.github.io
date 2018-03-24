@@ -60,3 +60,9 @@ th{
 td{
     border:1px solid #000000;
 }
+.dwnld-btn {
+  padding: 10px;
+  border-radius: 10px;
+  color: #000;
+  background: #eee;
+}
