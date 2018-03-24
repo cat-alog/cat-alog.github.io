@@ -66,3 +66,7 @@ td{
   color: #000;
   background: #eee;
 }
+.dwnld-btn:hover {
+  background-color: #ffff99;
+}
+
