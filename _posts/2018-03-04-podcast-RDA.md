@@ -5,4 +5,4 @@ date: 2018-03-04
 ---
 
 
-<p><a class="dwnld-btn" href="<p><a class="dwnld-btn" href="https://docs.google.com/document/d/1mEFz8-0lssQ4syBu6woF0ZzfSQJmGnQCTZ0qOX-7MqE/edit?usp=sharing" target="_blank">Download RDA Template Doc HERE</a></p>
+<a class="dwnld-btn" href=<a class="dwnld-btn" href="https://docs.google.com/document/d/1mEFz8-0lssQ4syBu6woF0ZzfSQJmGnQCTZ0qOX-7MqE/edit?usp=sharing" target="_blank">Download RDA Template Doc HERE</a></p>
