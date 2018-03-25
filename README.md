@@ -3,7 +3,7 @@ A new site to journal my librarian goals
 
 <!-- vim regex to format marc and rda tables for posts.
 
-:s/\n/ | /g
+:%s/\n/ | /g
 that matches all new lines and replaces them with pipes
 
 
