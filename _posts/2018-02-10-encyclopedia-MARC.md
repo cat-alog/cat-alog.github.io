@@ -1,8 +1,45 @@
 ---
 layout: post
-title: "Encyclopedia in MARC <br> <img src='https://images-na.ssl-images-amazon.com/images/I/816C3tZ76IL._AC_UL320_SR246,320_.jpg' height='375' width='245'>"
+title: "Encyclopedia in MARC <br> <img src='https://prodimage.images-bn.com/pimages/9781780191256_p0_v1_s550x406.jpg' height='375' width='245'>"
 date: 2018-02-10
 tag: book-zine
 ---
 
-table here with more text
+| MARC FIELD TAG  | MARC FIELD  | INDICATORS  | DATA RECORDED  | 
+|:-----|:-----:|:-----:|:-----:|
+| Leader/06  | Type of record  |   |  A book  | 
+| Leader/07  | Bibliographic level  |   | m | 
+| Leader/18  | Descriptive cataloguing form  |   | i |
+| Leader/19  | Multipart resource record level  |   |  | 
+ | 007/00  | Physical description fixed field – Category of material |   |  |
+ | 007/01  | Physical description fixed field – Specific material designation  |   |  |  
+ | 007/06  | Physical description fixed field – Dimensions  |   |  |
+ | 007/12  | Physical description fixed field – Special playback characteristics  |   |  |
+ | 007/13  | Physical description fixed field – Capture and storage technique  |   |  | 
+ | 008/35-37  | Fixed length data elements – Language  |   |  |
+ | 020  | International Standard Book Number  | ##  | 9781780191256 |
+ | 020  | International Standard Book Number  | ##  | 1780191251 |
+ | 037  | Source of acquisition  | ##  |  |
+ | 040  | Cataloguing source – description conventions  | ##  | OQP  | 
+ | 100  | Main entry – Personal name  | 1#  | Edwards, Alan$eauthor.  |
+ | 245  | Title statement  | 10  | The ultimate encyclopedia of cats, cat breeds & cat care: comprehensive, practical care and training manual and a definitive encyclopedia of world breeds /$cAlan Edwards ; veterinary consultant, Trevor Turner. |  
+ | 250  | Edition statement  | ##  | First edition  | 
+ | 264  | Production, publication, distribution, manufacture, and copyright notice  | #1  | Leicestershire : $b Southwater, $c 2012. |
+ | 264  | Production, publication, distribution, manufacture, and copyright notice  | #4  | $©1999 |
+ | 300  | Physical description  | ##  | 256 pages : $b color illustrations ; $c 30 cm |
+ | 336  | Content type  | ##  | text $b txt $2 rdacontent |
+ | 337  | Media type  | ##  | unmediated $b n $2 rdamedia |
+ | 338  | Carrier type  | ##  | volume $b nc $2 rdacarrier |
+ | 500  | General note  | ##  | originally published: Anness Publishing Limited, 1999, 2011. |
+ | 500 | General note  | | Includes Index  |
+ | 520  | Summary, etc.  | ##  | Introducing the domestic cat -- Choosing the right cat -- Creating the right environment -- Care at home and away -- Nutrition and feeding -- Grooming -- Behavior and intelligence -- General care and everyday health -- Injuries and ailments -- Breeds -- Longhair group -- Semi-longhair group -- Shorthair group -- Non-pedigreed cats -- Breeding from your cat -- Showing your cat. |
+ | 700  | Added entry – Personal name  | 1#  | Lorenz, Joanna,$epublisher.  |
+ | 700  | Added entry – Personal name  | 1#  | Project and contributing editor, Gilly Cameron Cooper; |
+ | 700  | Added entry – Personal name  | 1#  | Morey, Michael, $eDesigner.  |
+ | 700  | Added entry – Personal name  | 1#  | Daniels, John$ephotographer.  |
+ | 700 | Added entry – Personal name  | 1# | Lawson, Wendy, $eproduction controller. |
+ | 700 | Added entry – Personal name  | 1# | Kerr, Hayley, $eeditorial reader.  |
+ | 700 | Added entry – Personal name  | 1# | Frame, Dorothy $eindexer. |
+ | 710 | Added entry – Corporate  | 1# | Anness Publishing,$epublisher.  |
+
+<a class="dwnld-btn" href="https://docs.google.com/document/d/1TbqQDaHnjdXngXq9Z_yyV_t3uI_fX66SSnAl7haS9pk/edit?usp=sharing" target="_blank">Download MARC Template Doc HERE</a>                                                                                
