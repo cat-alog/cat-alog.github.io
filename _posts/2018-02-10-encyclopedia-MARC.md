@@ -10,16 +10,8 @@ tag: book-zine
 | Leader/06  | Type of record  |   |  A book  | 
 | Leader/07  | Bibliographic level  |   | m | 
 | Leader/18  | Descriptive cataloguing form  |   | i |
-| Leader/19  | Multipart resource record level  |   |  | 
- | 007/00  | Physical description fixed field – Category of material |   |  |
- | 007/01  | Physical description fixed field – Specific material designation  |   |  |  
- | 007/06  | Physical description fixed field – Dimensions  |   |  |
- | 007/12  | Physical description fixed field – Special playback characteristics  |   |  |
- | 007/13  | Physical description fixed field – Capture and storage technique  |   |  | 
- | 008/35-37  | Fixed length data elements – Language  |   |  |
  | 020  | International Standard Book Number  | ##  | 9781780191256 |
  | 020  | International Standard Book Number  | ##  | 1780191251 |
- | 037  | Source of acquisition  | ##  |  |
  | 040  | Cataloguing source – description conventions  | ##  | OQP  | 
  | 100  | Main entry – Personal name  | 1#  | Edwards, Alan$eauthor.  |
  | 245  | Title statement  | 10  | The ultimate encyclopedia of cats, cat breeds & cat care: comprehensive, practical care and training manual and a definitive encyclopedia of world breeds /$cAlan Edwards ; veterinary consultant, Trevor Turner. |  
