@@ -60,6 +60,8 @@ th{
 td{
     border:1px solid #000000;
 }
+
+/* download buttons for full-text */
 .dwnld-btn {
   padding: 10px;
   border-radius: 10px;
@@ -70,8 +72,28 @@ td{
   background-color: #ffff99;
 }
 
+/* icon for home link */
 .homeicon {
 	width: 45px;
 	height: auto;
+}
+
+/* blog post pagination */
+.PageNavigation {
+  font-size: 14px;
+  display: block;
+  width: auto;
+  overflow: hidden;
+}
+
+.PageNavigation a {
+  display: block;
+  width: 50%;
+  float: left;
+  margin: 1em 0;
+}
+
+.PageNavigation .next {
+  text-align: right;
 }
 
