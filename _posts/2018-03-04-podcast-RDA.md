@@ -24,10 +24,10 @@ date: 2018-03-04
 | 3.19.2 | Digital file type  | streaming audio file |
 | 3.19.3 | Encoding format  | mp3 |
 | 4.2 | Terms of availability  | Free |
-| 4.3 | Contact information  | stacy@communitycatspodcast.com 978-239-2090 |
+| 4.3 | Contact information  | stacy@communitycatspodcast.com <br> 978-239-2090 |
 | 6.9 | Content type | sounds |
 | 7.10 | Summarization of the content  | Episodic series of digital audio focused on educating and informing listeners creating a supportive environment that empowers people to help cats in their community. |
-| 7.22 | Duration  | approximately 24 min. | Duration of an episode |
+| 7.22 | Duration  | approximately 24 min. <br> Duration of an episode |
 | 17.8 | Work manifested1 | The Community Cats Podcast. 2016-2018. 240 episodes. |
 | 19.2 | Creator | Stacy LeBaron |
 | 18.5 | Relationship designator  | founder |
