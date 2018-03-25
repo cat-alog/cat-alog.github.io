@@ -17,7 +17,12 @@ looks for a pipe (|) a space and a capture group of 3 digits \(\d\d\d\)
 |^M | is a pipe, line break, and pipe--separating table elements
 \1 is the capture group
 /g is the end of the capture group, apply globally to the line
-
 -->
 
+<!-- tags:
+book-zine
+3d-obj
+digital
+living
+-->
 
