@@ -25,6 +25,10 @@ tag: book-zine
  | 500  | General note  | ##  | originally published: Anness Publishing Limited, 1999, 2011. |
  | 500 | General note  | | Includes Index  |
  | 520  | Summary, etc.  | ##  | Introducing the domestic cat -- Choosing the right cat -- Creating the right environment -- Care at home and away -- Nutrition and feeding -- Grooming -- Behavior and intelligence -- General care and everyday health -- Injuries and ailments -- Breeds -- Longhair group -- Semi-longhair group -- Shorthair group -- Non-pedigreed cats -- Breeding from your cat -- Showing your cat. |
+| 650 | Subject heading | #0 | Cat$vEncyclopedia|
+|650| Subject heading | #0| Cat Breeds$vEncylopedia |
+| 650| Subject heading | #0|Cats|
+| 650| Subject heading | #0|Cats$Health|
  | 700  | Added entry – Personal name  | 1#  | Lorenz, Joanna,$epublisher.  |
  | 700  | Added entry – Personal name  | 1#  | Project and contributing editor, Gilly Cameron Cooper; |
  | 700  | Added entry – Personal name  | 1#  | Morey, Michael, $eDesigner.  |
