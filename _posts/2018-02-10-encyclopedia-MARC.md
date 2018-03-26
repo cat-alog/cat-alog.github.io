@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Encyclopedia in MARC <br> <img src='https://prodimage.images-bn.com/pimages/9781780191256_p0_v1_s550x406.jpg' height='375' width='245'>"
+title: "Encyclopedia in MARC <br> <img src='https://i.imgur.com/6MOjITM.jpg' height='375' width='245'>"
 date: 2018-02-10
 tag: book-zine
 ---
