@@ -4,10 +4,12 @@ layout: default
 <h2 class="post_title">{{page.title}}</h2>
 {% assign tags = site.tags | sort %}
  {% for tag in tags %}
-<h2>{{tag}}</h2>
+<h2>{{tag.title}}</h2>
+<h2>{{tag.html}}</h2>
 <ul>
  {% for post in site.tags[{{tag}}] %}
   <li class="archive_list">
+    <!--- <p class="summary">{{post.title}}</p> -->
   </li>
   {% endfor %}
 </ul>
