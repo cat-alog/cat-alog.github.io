@@ -6,7 +6,7 @@ tgs: digital
 ---
 
 | RDA REF | RDA ELEMENT | DATA RECORDED |
-|:-----|:-----:|-----:|
+|:-----:|:-----:|:-----:|
 | 2.3.2 | Title proper | The Community Cats Podcast |
 | 2.4.2 | Statement of responsibility relating to title proper | Stacey LeBaron |
 | 2.8.2 | Place of publication | Vermont | 
