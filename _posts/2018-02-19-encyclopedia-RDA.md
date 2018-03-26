@@ -6,7 +6,7 @@ tags: book-zine
 ---
 
  | RDA REF  | RDA ELEMENT  | DATA RECORDED  |
-|:-----|:----:|:-----:|
+|:-----:|:----:|:-----:|
  | 2.3.2  | Title proper  | The ultimate encyclopedia of cats, cat breeds & cat care |
  | 2.4.2  | Statement of responsibility relating to title proper  | The ultimate encyclopedia of cats, cat breeds & cat care: comprehensive, practical care and training manual and a definitive encyclopedia of world breeds /$cAlan Edwards ; veterinary consultant, Trevor Turner. |
  | 2.5.2  | Designation of edition  | First edition  |
