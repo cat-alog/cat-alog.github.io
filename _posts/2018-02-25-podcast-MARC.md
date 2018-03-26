@@ -6,11 +6,7 @@ tags: digital
 ---
 
 | MARC FIELD TAG | MARC FIELD  | INDICATORS  | DATA RECORDED |
-|:-----|:-----:|:-----:|:-----:|
-| Leader/06 | Type of record | | |
-| Leader/07 | Bibliographic level |   |  | 
-| Leader/18 | Descriptive cataloguing form |   | | 
-| Leader/19 | Multipart resource record level  |   | |
+|:-----:|:-----:|:-----:|:-----:|
 | 007/00 | Physical description fixed field – Category of material |   | Sound Recording |
 | 007/01 | Physical description fixed field – Specific material designation |   | s $b r $d n $e u $f n $h n $i n $j n $k n $l n  |
 | 007/06 | Physical description fixed field – Dimensions |   | $g z |
@@ -20,7 +16,6 @@ tags: digital
 | 028 | Publisher or Distributor Number  | #0 | $b Perry LeBaron Ventures, LLC |
 | 100 | Main entry – Personal name  | 1#  | LeBaron, Stacy, $e creator. |
 | 245 | Title statement  | 14 | The Community Cats Podcast / $c Stacy LeBaron, $f 2016-2018. |
-| 250 | Edition statement | ##  |  |
 | 260 | Publication, Distribution, Etc. (Imprint) | | Vermont : $b Stacy LeBaron, $c 2016 June 18.  |
 | 264 | Production, publication, distribution, manufacture, and copyright notice  | #1  | Vermont : $b Stacy LeBaron, $c 2016 June 18.   |
 | 264 | Production, publication, distribution, manufacture, and copyright notice  | #4  | $c © 2017 |
