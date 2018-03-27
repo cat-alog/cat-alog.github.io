@@ -6,7 +6,8 @@ layout: default
  {% for tag in tags %}
 <h2>{{tag | first }}</h2>
 <ul>
- {% for post in site.tags[{{tag}}] %}
+ {% for post in tag | %}:
+<! --- site.tags[{{tag}}] %} --->
   <li class="archive_list">
     <!--- <p class="summary">{{post.title}}</p> -->
   </li>
